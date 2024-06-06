@@ -42,6 +42,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
+#include <malloc.h>
 
 #if HAVE_FT_COLR_V1
 
